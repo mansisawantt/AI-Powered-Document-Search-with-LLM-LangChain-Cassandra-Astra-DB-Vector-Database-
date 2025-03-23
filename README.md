@@ -5,16 +5,15 @@ This project demonstrates how to use **Generative AI** with **LLMs (Large Langua
 ---
 
 ## 🚀 Features
-- **📄 PDF Querying**: Extracts information from PDFs using `pdfquery` and `PyMuPDF`
-- **🧠 AI Embeddings**: Uses OpenAI’s `text-embedding-ada-002` model for vector embeddings
-- **📊 Vector Storage**: Stores embeddings in **Astra DB (Cassandra Vector Database)**
-- **🔍 Semantic Search**: Queries documents intelligently using **LangChain & LLMs**
-- **🌐 Cloud Deployment**: Can be extended to deploy on **AWS/GCP**
+- ** PDF Querying**: Extracts information from PDFs using `pdfquery` and `PyMuPDF`
+- ** AI Embeddings**: Uses OpenAI’s `text-embedding-ada-002` model for vector embeddings
+- ** Vector Storage**: Stores embeddings in **Astra DB (Cassandra Vector Database)**
+- ** Semantic Search**: Queries documents intelligently using **LangChain & LLMs**
 
 ---
 
 ## 🛠️ Technologies Used
-- **Python** 🐍
+- **Python** 
 - **LangChain** (AI-powered document querying)
 - **LLMs (Large Language Models)**
 - **Cassandra & Astra DB (Vector Database)**
@@ -24,25 +23,6 @@ This project demonstrates how to use **Generative AI** with **LLMs (Large Langua
 
 ---
 
-## 📂 Project Structure
-```
-📂 AI-Document-Search-LLM-LangChain-Cassandra-AstraDB
-│── 📄 README.md   # Project documentation
-│── 📜 requirements.txt  # Dependencies
-│── 📑 PDFQuery_LangChain.ipynb  # Main Jupyter Notebook
-│── 📂 data  # Folder for PDFs
-└── 📂 embeddings  # Folder for stored embeddings
-```
-
----
-
-## 🔧 Setup Instructions
-
-### **1️⃣ Install Dependencies**
-Ensure you have Python 3.8+ installed, then install required libraries:
-```bash
-pip install -r requirements.txt
-```
 
 ### **2️⃣ Set Up Astra DB**
 1. **Create an Astra DB instance**: [Astra DB](https://www.datastax.com/products/datastax-astra)
@@ -82,7 +62,7 @@ jupyter notebook
 ---
 
 ## 👤 Author
-- **Mansi** (Data Science Enthusiast 🚀)
+- **Mansi Sawant**
 
 ---
 
@@ -91,5 +71,5 @@ This project is for educational purposes only.
 
 ---
 
-💡 *Have any suggestions? Feel free to contribute!* 🚀
+💡 *Have any suggestions? Feel free to contribute!* 
 
