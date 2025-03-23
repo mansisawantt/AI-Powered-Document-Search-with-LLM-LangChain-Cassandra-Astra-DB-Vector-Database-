@@ -1,4 +1,4 @@
-# 🔍 AI-Powered Document Search with LLM, LangChain, Cassandra & Astra DB (Vector Database)
+# Build a PDF Document Question Answering LLM System With Langchain,Cassandra,Astra DB,Vector Database
 
 This project demonstrates how to use **Generative AI** with **LLMs (Large Language Models)**, **LangChain**, **Cassandra**, and **Astra DB (Vector Database)** for efficient document searching and retrieval. It integrates **OpenAI embeddings**, **Astra DB (built on Cassandra) vector storage**, and **LangChain** to build a scalable AI-powered knowledge retrieval system.
 
